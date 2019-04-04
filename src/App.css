@@ -23,6 +23,35 @@
   color: #61dafb;
 }
 
+.Toast-container {
+  position: fixed;
+  max-width: 800px;
+  width: 100%;
+  left: 30%;
+  top: 50px;
+}
+
+.Footer-button {
+  bottom: 50px;
+  position: absolute;
+  background: #282c34;
+  padding: 20px;
+  color: #fdfeff;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.Footer-button:hover {
+  background: #fdfeff;
+  color: #282c34;
+}
+
+heading {
+  font-size: 5em;
+  font-family: sans-serif;
+  color: #ffffff1a;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

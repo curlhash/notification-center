@@ -1,0 +1,6 @@
+.Toast {
+    background-color: white;
+    padding: 12px;
+    margin: 10px;
+    transition: opacity .15s linear;
+}
